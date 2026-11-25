@@ -12,7 +12,7 @@ I am a 2nd-year **Cybersecurity** student focused on **Python Backend Developmen
 
 #### 🛠️ Tech Stack
 * **Languages:** Python, SQL, JavaScript, HTML5, CSS3
-* **Backend & Data:** FastAPI, Flask, pandas
+* **Frameworks:** FastAPI, Django, Streamlit,
 * **Databases:** PostgreSQL, SQLite
 * **DevOps & Tools:** Docker, Docker Compose, Git
 
@@ -37,7 +37,7 @@ Jestem studentem 2. roku **Cyberbezpieczeństwa**, rozwijającym się w kierunku
 
 #### 🛠️ Technologie i narzędzia
 * **Języki:** Python, SQL, JavaScript, HTML5, CSS3
-* **Backend i dane:** FastAPI, Flask, pandas
+* **Frameworki** FastAPI, Django, Streamlit,
 * **Bazy danych:** PostgreSQL, SQLite
 * **DevOps i środowisko:** Docker, Docker Compose, Git
 

@@ -21,8 +21,8 @@ I am a 2nd-year **Cybersecurity** student focused on **Python Backend Developmen
   Containerized web application for logging strength workouts, validating input data, and analyzing volume progression. Built with **FastAPI, SQL, Docker Compose, and Streamlit**.
 * **[Math Tutoring Portfolio](https://github.com/Oleskito/Portfolio-Korepetycje)**  
   Clean, responsive web math tutoring portfolio and educational games (**HTML, CSS, JavaScript**).
-* **[Backend MVP Project *(Archived)*](https://github.com/Oleskito/ZKwP-project-ARCHIVED)**  
-  Web application built with **Flask and pandas** designed for pedigree dog breeders looking to digitize their kennel operations (developed up to the payment gateway integration phase).
+- **[Dog Kennel Management SaaS *(Archived)*](https://github.com/Oleskito/ZKwP-project-ARCHIVED)**  
+  Full-stack web application built with **Django, PostgreSQL, and Tailwind CSS** for pedigree dog breeders (ZKwP) to manage dogs, litters, medical records, and buyers. Features custom user authentication with Cloudflare Turnstile, encrypted PII fields, and Stripe subscription/payment webhooks (developed up to the final payment logic refinement).
 
 #### 📫 Contact
 * **Email:** [olekpatrykostrycharz@gmail.com](mailto:olekpatrykostrycharz@gmail.com)
@@ -46,8 +46,8 @@ Jestem studentem 2. roku **Cyberbezpieczeństwa**, rozwijającym się w kierunku
   Skonteneryzowana aplikacja webowa do rejestrowania treningów siłowych, walidacji danych wejściowych oraz analizy progresji objętości. Zbudowana w oparciu o **FastAPI, SQL, Docker Compose oraz Streamlit**.
 * **[Portfolio z korepetycji z matematyki](https://github.com/Oleskito/Portfolio-Korepetycje)**  
   Responsywna strona internetowa z portfolio do korepetycji i grami edukacyjnymi (**HTML, CSS, JavaScript**).
-* **[Projekt strony do zarządzania hodowlą psów *(Archiwalny)*](https://github.com/Oleskito/ZKwP-project-ARCHIVED)**  
-  Aplikacja webowa oparta na **Flask i pandas** tworzona z myślą o hodowcach psów rasowych, którzy chcą zdigitalizować swoją hodowlę (rozwinięta do etapu integracji płatności).
+- **[System SaaS do zarządzania hodowlą psów *(Archiwalny)*](https://github.com/Oleskito/ZKwP-project-ARCHIVED)**  
+  Aplikacja webowa oparta na **Django, PostgreSQL i Tailwind CSS** dla hodowców psów rasowych (ZKwP) do zarządzania psami, miotami, dokumentacją medyczną i danymi nabywców. Obejmuje m.in. autoryzację z Cloudflare Turnstile, szyfrowanie danych wrażliwych na poziomie bazy oraz obsługę płatności i webhooków Stripe (rozwinięta do etapu finalizacji logiki płatności).
 
 #### 📫 Kontakt
 * **Email:** [olekpatrykostrycharz@gmail.com](mailto:olekpatrykostrycharz@gmail.com)
